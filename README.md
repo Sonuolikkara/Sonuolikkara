@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Sonuolikkara
 
-<!--
-**Sonuolikkara/Sonuolikkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an AI/ML Engineer with a passion for open-source contributions and continuous learning.
 
-Here are some ideas to get you started:
+## About Me
+I specialize in developing and implementing machine learning models and algorithms to solve complex problems. My expertise lies in leveraging Python and advanced ML frameworks to create data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Continuously learning and evolving in the fields of AI and ML.
+- 💬 Open to discussions on best practices, development strategies, and innovative solutions.
+- ⚡ Fun fact: I love teamwork and enjoy collaborating with diverse teams to achieve company goals.
+
+## Skills
+- **Languages:** Python (primary), JavaScript, Java, C++
+- **ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn
+- **Data Tools:** Jupyter, Pandas, NumPy, Matplotlib
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes
+
+## GitHub Stats
+![Sonuolikkara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonuolikkara&show_icons=true&theme=radical)
+
+## Connect with Me
+- [Email](mailto:sonuolikkara@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sonuolikkara/)
+
+Thank you for visiting my profile!
+```` ▋
